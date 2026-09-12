@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Build: Compile and package code using Maven'
+                echo 'Build: Compile and package code using Maven - updated build'
             }
         }
 
